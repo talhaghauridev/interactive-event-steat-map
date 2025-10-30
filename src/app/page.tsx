@@ -147,7 +147,7 @@ export default function SeatingMap() {
               <span>Selected</span>
             </div>
             <div className="flex items-center gap-1.5">
-              <div className="h-3 w-3 rounded-full bg-red-500"></div>
+              <div className="h-3 w-3 rounded-full bg-[#f7a1a1]"></div>
               <span>Unavailable</span>
             </div>
           </div>
